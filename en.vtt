@@ -1,160 +1,213 @@
 WEBVTT
 
+1
 00:00:00.000 --> 00:00:05.000
 Great! So, we are doing pretty well. We've delved into general ledgers. We've looked
 
+2
 00:00:05.000 --> 00:00:10.000
 at T-accounts and debits and credits. We learned about the accounting equation
 
+3
 00:00:10.000 --> 00:00:18.000
 and about the three main financial statements. That's a pretty good start.
 
+4
 00:00:18.000 --> 00:00:22.000
 It seems like the right moment to introduce one of the fundamental
 
+5
 00:00:22.000 --> 00:00:28.000
 concepts in accounting, double-entry bookkeeping. The principle behind it is
 
+6
 00:00:28.000 --> 00:00:33.000
 that every transaction has equal and opposite effects in two or more
 
+7
 00:00:33.000 --> 00:00:38.000
 accounts. This principle guarantees the satisfaction of the accounting equation.
 
+8
 00:00:38.000 --> 00:00:45.000
 So, every time we register an accounting transaction, we need to think of at least
 
+9
 00:00:45.000 --> 00:00:49.000
 two accounts that will be affected by the transaction. This approach was
 
+10
 00:00:49.000 --> 00:00:53.000
 fundamental back in the day when accounting software programs were not
 
+11
 00:00:53.000 --> 00:00:58.000
 available and accountants needed to be extremely careful in order to avoid
 
+12
 00:00:58.000 --> 00:01:04.000
 mistakes. Today, things are easier because accounting software assists
 
+13
 00:01:04.000 --> 00:01:09.000
 bookkeepers and accountants in recording and reporting on a firm's financial
 
+14
 00:01:09.000 --> 00:01:14.000
 transactions. It is virtually impossible to make an entry without respecting the
 
+15
 00:01:14.000 --> 00:01:19.000
 double-entry principle, as an error message would appear on the screen
 
+16
 00:01:19.000 --> 00:01:25.000
 instantly. Nevertheless, it is important to understand the double-entry principle
 
+17
 00:01:25.000 --> 00:01:31.000
 because it is at the core of studying accounting. Let's illustrate it with a
 
+18
 00:01:31.000 --> 00:01:37.000
 simple example. Think of a firm that owns only one asset,
 
+19
 00:01:37.000 --> 00:01:44.000
 one million dollars in cash. The firm owns only one asset. Good. This is one
 
+20
 00:01:44.000 --> 00:01:49.000
 part of the accounting equation. The other part is liabilities and equity,
 
+21
 00:01:49.000 --> 00:01:55.000
 which, if you remember, show us how the company is financed. So, let's suppose
 
+22
 00:01:55.000 --> 00:02:00.000
 that this firm is financed entirely through equity, one million dollars of
 
+23
 00:02:00.000 --> 00:02:06.000
 equity. So, the two sides of the equation tell us that one million dollars of cash
 
+24
 00:02:06.000 --> 00:02:12.000
 are financed by one million dollars of equity capital. So far, so good. Let's
 
+25
 00:02:12.000 --> 00:02:17.000
 imagine that the firm buys a real estate property with its one million dollars of
 
+26
 00:02:17.000 --> 00:02:23.000
 cash. What will be the necessary entries that would allow us to respect the
 
+27
 00:02:23.000 --> 00:02:30.000
 double-entry principle? The firm buys real estate assets. We need to draw a new
 
+28
 00:02:30.000 --> 00:02:38.000
 T-account. Let's call it real estate. It is on the asset side. When the company
 
+29
 00:02:38.000 --> 00:02:43.000
 buys the real estate property, the account will increase. It is an asset and
 
+30
 00:02:43.000 --> 00:02:51.000
 we know that we need to debit the real estate account. Okay. This shows that the
 
+31
 00:02:51.000 --> 00:02:56.000
 firm owns real estate for one million dollars. Now, we need to think of the
 
+32
 00:02:56.000 --> 00:03:03.000
 counterpart account. How did the company pay for the asset? With cash, right?
 
+33
 00:03:03.000 --> 00:03:09.000
 Therefore, we need to make an entry that shows the reduction in cash. Cash is an
 
+34
 00:03:09.000 --> 00:03:15.000
 asset and it decreased in this transaction. Hence, we are going to credit
 
+35
 00:03:15.000 --> 00:03:23.000
 the cash account. Okay. This shows that we spent our cash in order to buy the real
 
+36
 00:03:23.000 --> 00:03:29.000
 estate property. You can see how we needed two entries in order to recap the
 
+37
 00:03:29.000 --> 00:03:35.000
 effects of the transaction. The two entries balanced each other. One of them
 
+38
 00:03:35.000 --> 00:03:41.000
 was on the debit side and the other on the credit side. Hence, the accounting
 
+39
 00:03:41.000 --> 00:03:47.000
 equation is still satisfied. Let's make another example. After buying the real
 
+40
 00:03:47.000 --> 00:03:53.000
 estate property, the firm manages to obtain a bank loan for $500,000. What
 
+41
 00:03:53.000 --> 00:03:57.000
 entries need to be made in order to account for this transaction in the
 
+42
 00:03:57.000 --> 00:04:04.000
 balance sheet? First of all, the company received $500,000 in cash. So, we need to
 
+43
 00:04:04.000 --> 00:04:11.000
 increase the cash account. This is an asset. Hence, we will write $500,000 on the
 
+44
 00:04:11.000 --> 00:04:20.000
 left side of the T account. Very good. We debited the cash account. Now, we need to
 
+45
 00:04:20.000 --> 00:04:25.000
 think of a second transaction that will restore the balance in our equation. The
 
+46
 00:04:25.000 --> 00:04:32.000
 firm received a bank loan, right? So, now it owes $500,000 to the bank. We need to
 
+47
 00:04:32.000 --> 00:04:36.000
 show this on the balance sheet. It will be on the right side of the balance
 
+48
 00:04:36.000 --> 00:04:45.000
 sheet, given that it is a liability. It will create a new T account. Bank Loans.
 
+49
 00:04:45.000 --> 00:04:51.000
 When a liability is increased, it needs to be credited, which means that we need
 
+50
 00:04:51.000 --> 00:04:58.000
 to write the number on the right side of the account. $500,000 on the right side
 
+51
 00:04:58.000 --> 00:05:04.000
 of the T account, describing bank loans. Now, the accounting equation is satisfied.
 
+52
 00:05:04.000 --> 00:05:09.000
 You can see the double entry principle helps us satisfy the accounting equation
 
+53
 00:05:09.000 --> 00:05:09.000
-at all times. It is one of the golden rules of accounting. This is why we'll 
+at all times. It is one of the golden rules of accounting. This is why we'll
