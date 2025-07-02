@@ -1,0 +1,211 @@
+1
+00:00:00,000 --> 00:00:05,000
+Parfait ! Alors, nous nous en sortons plutôt bien. Nous avons approfondi les grands livres. Nous avons examiné
+
+2
+00:00:05,000 --> 00:00:10,000
+les comptes en T et les débits et crédits. Nous avons appris l'équation comptable
+
+3
+00:00:10,000 --> 00:00:18,000
+et les trois principaux états financiers. C'est un assez bon début.
+
+4
+00:00:18,000 --> 00:00:22,000
+Il semble que ce soit le bon moment pour introduire l'un des concepts fondamentaux
+
+5
+00:00:22,000 --> 00:00:28,000
+en comptabilité, la comptabilité en partie double. Le principe derrière cela est
+
+6
+00:00:28,000 --> 00:00:33,000
+que chaque transaction a des effets égaux et opposés dans deux ou plusieurs
+
+7
+00:00:33,000 --> 00:00:38,000
+comptes. Ce principe garantit la satisfaction de l'équation comptable.
+
+8
+00:00:38,000 --> 00:00:45,000
+Donc, chaque fois que nous enregistrons une transaction comptable, nous devons penser à au moins
+
+9
+00:00:45,000 --> 00:00:49,000
+deux comptes qui seront affectés par la transaction. Cette approche était
+
+10
+00:00:49,000 --> 00:00:53,000
+fondamentale à l'époque où les logiciels de comptabilité n'étaient pas
+
+11
+00:00:53,000 --> 00:00:58,000
+disponibles et les comptables devaient être extrêmement prudents pour éviter
+
+12
+00:00:58,000 --> 00:01:04,000
+les erreurs. Aujourd'hui, les choses sont plus faciles car les logiciels de comptabilité aident
+
+13
+00:01:04,000 --> 00:01:09,000
+les teneurs de livres et les comptables à enregistrer et à rendre compte des transactions financières
+
+14
+00:01:09,000 --> 00:01:14,000
+d'une entreprise. Il est pratiquement impossible de faire une entrée sans respecter le
+
+15
+00:01:14,000 --> 00:01:19,000
+principe de la partie double, car un message d'erreur apparaîtrait sur l'écran
+
+16
+00:01:19,000 --> 00:01:25,000
+instantanément. Néanmoins, il est important de comprendre le principe de la partie double
+
+17
+00:01:25,000 --> 00:01:31,000
+car il est au cœur de l'étude de la comptabilité. Illustrons-le avec un
+
+18
+00:01:31,000 --> 00:01:37,000
+exemple simple. Pensez à une entreprise qui ne possède qu'un seul actif,
+
+19
+00:01:37,000 --> 00:01:44,000
+un million de dollars en espèces. L'entreprise ne possède qu'un seul actif. Bien. C'est une
+
+20
+00:01:44,000 --> 00:01:49,000
+partie de l'équation comptable. L'autre partie est les passifs et les capitaux propres,
+
+21
+00:01:49,000 --> 00:01:55,000
+qui, si vous vous souvenez, nous montrent comment l'entreprise est financée. Supposons donc
+
+22
+00:01:55,000 --> 00:02:00,000
+que cette entreprise soit entièrement financée par des capitaux propres, un million de dollars de
+
+23
+00:02:00,000 --> 00:02:06,000
+capitaux propres. Ainsi, les deux côtés de l'équation nous disent qu'un million de dollars en espèces
+
+24
+00:02:06,000 --> 00:02:12,000
+sont financés par un million de dollars de capital propre. Jusqu'ici, tout va bien. Imaginons
+
+25
+00:02:12,000 --> 00:02:17,000
+que l'entreprise achète une propriété immobilière avec son million de dollars
+
+26
+00:02:17,000 --> 00:02:23,000
+en espèces. Quelles seront les écritures nécessaires qui nous permettront de respecter le
+
+27
+00:02:23,000 --> 00:02:30,000
+principe de la partie double ? L'entreprise achète des actifs immobiliers. Nous devons créer un nouveau
+
+28
+00:02:30,000 --> 00:02:38,000
+compte en T. Appelons-le immobilier. Il est du côté des actifs. Lorsque l'entreprise
+
+29
+00:02:38,000 --> 00:02:43,000
+achète la propriété immobilière, le compte augmentera. C'est un actif et
+
+30
+00:02:43,000 --> 00:02:51,000
+nous savons que nous devons débiter le compte immobilier. D'accord. Cela montre que
+
+31
+00:02:51,000 --> 00:02:56,000
+l'entreprise possède de l'immobilier pour un million de dollars. Maintenant, nous devons penser au
+
+32
+00:02:56,000 --> 00:03:03,000
+compte de contrepartie. Comment l'entreprise a-t-elle payé l'actif ? Avec de l'argent, n'est-ce pas ?
+
+33
+00:03:03,000 --> 00:03:09,000
+Par conséquent, nous devons faire une écriture qui montre la réduction des espèces. L'argent est un
+
+34
+00:03:09,000 --> 00:03:15,000
+actif et il a diminué dans cette transaction. Par conséquent, nous allons créditer
+
+35
+00:03:15,000 --> 00:03:23,000
+le compte de trésorerie. D'accord. Cela montre que nous avons dépensé notre argent pour acheter la
+
+36
+00:03:23,000 --> 00:03:29,000
+propriété immobilière. Vous pouvez voir comment nous avons eu besoin de deux écritures pour récapituler les
+
+37
+00:03:29,000 --> 00:03:35,000
+effets de la transaction. Les deux écritures se sont équilibrées. L'une d'elles
+
+38
+00:03:35,000 --> 00:03:41,000
+était du côté débit et l'autre du côté crédit. Par conséquent, l'équation comptable
+
+39
+00:03:41,000 --> 00:03:47,000
+est toujours satisfaite. Faisons un autre exemple. Après avoir acheté la
+
+40
+00:03:47,000 --> 00:03:53,000
+propriété immobilière, l'entreprise parvient à obtenir un prêt bancaire de 500 000 $. Quelles
+
+41
+00:03:53,000 --> 00:03:57,000
+écritures doivent être faites pour comptabiliser cette transaction dans le
+
+42
+00:03:57,000 --> 00:04:04,000
+bilan ? Tout d'abord, l'entreprise a reçu 500 000 $ en espèces. Nous devons donc
+
+43
+00:04:04,000 --> 00:04:11,000
+augmenter le compte de trésorerie. C'est un actif. Par conséquent, nous écrirons 500 000 $ sur le
+
+44
+00:04:11,000 --> 00:04:20,000
+côté gauche du compte en T. Très bien. Nous avons débité le compte de trésorerie. Maintenant, nous devons
+
+45
+00:04:20,000 --> 00:04:25,000
+penser à une deuxième transaction qui rétablira l'équilibre dans notre équation. L'
+
+46
+00:04:25,000 --> 00:04:32,000
+entreprise a reçu un prêt bancaire, n'est-ce pas ? Donc maintenant elle doit 500 000 $ à la banque. Nous devons
+
+47
+00:04:32,000 --> 00:04:36,000
+le montrer dans le bilan. Ce sera du côté droit du bilan,
+
+48
+00:04:36,000 --> 00:04:45,000
+étant donné que c'est un passif. Cela créera un nouveau compte en T. Prêts bancaires.
+
+49
+00:04:45,000 --> 00:04:51,000
+Lorsqu'un passif augmente, il doit être crédité, ce qui signifie que nous devons
+
+50
+00:04:51,000 --> 00:04:58,000
+écrire le nombre du côté droit du compte. 500 000 $ du côté droit
+
+51
+00:04:58,000 --> 00:05:04,000
+du compte en T, décrivant les prêts bancaires. Maintenant, l'équation comptable est satisfaite.
+
+52
+00:05:04,000 --> 00:05:09,000
+Vous pouvez voir que le principe de la partie double nous aide à satisfaire l'équation comptable
+
+53
+00:05:09,000 --> 00:05:09,000
+en tout temps. C'est l'une des règles d'or de la comptabilité. C'est pourquoi nous
